@@ -1,3 +1,3 @@
 {
-    "dl": "https://crates.io/api/v1/crates"
+    "dl": "https://amardeepk-surya.github.io/crate-storage/{crate}-{version}.crate"
 }
