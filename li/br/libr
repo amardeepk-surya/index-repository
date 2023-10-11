@@ -1,1 +1,1 @@
-{"name":"libr","vers":"0.1.0","deps":[],"cksum":"80ece2b4c314ae1fe07cf9d699ea0c9fd04c131c5a27c27097c5070ea9e394ae","features":{},"yanked":false}
+{"name":"libr","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80ece2b4c314ae1fe07cf9d699ea0c9fd04c131c5a27c27097c5070ea9e394ae","features":{},"yanked":false}0181bdc44199a18e7c9dbe48db5e696e67a4dba2ce190d11d8ddc0b2db79f730
